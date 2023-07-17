@@ -4,7 +4,7 @@
   🌐 Building skills in web development with experience in HTML, CSS, and JavaScript, and actively learning frameworks like React and Express. 📚 Currently exploring topics in databases to expand my knowledge and improve my problem-solving abilities.Let's connect and create something remarkable together! ✨"</h3>
   
 
-- 🌱 I’m currently learning **React Js,Database**
+- 🌱 I’m currently learning **React Js and Database**
 
 - 💬 Ask me about **Web Development**
 
