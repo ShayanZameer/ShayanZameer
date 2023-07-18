@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayan Zameer</h1>
 <h3 align="center">A Computer Science student from Pakistan, currently studying at Comsats University Islamabad..I'm passionate about software development and eager to contribute to the tech industry. 💻 Knowledge in programming languages like Java, Python, and C++, with a foundation in data structures and algorithms. 🌐 Building skills in web development with experience in HTML, CSS, and JavaScript, and actively learning frameworks like React and Express. 📚 Currently exploring topics in databases to expand my knowledge and improve my problem-solving abilities.Let's connect and create something remarkable together! ✨"</h3>
 
-- 🌱 I’m currently learning **React Js and Database**
+- 🌱 I’m currently learning **React Js,ASP.net FrameWorks and C# as a Backend Language**
 
 - 💬 Ask me about **Web Development**
 
